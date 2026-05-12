@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[your-linkedin-url]">
+  <a href="[[your-linkedin-url](https://www.linkedin.com/in/nazirasabyt/)]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[your-portfolio-url]">
@@ -86,4 +86,4 @@ I'm always interested in talking with people working on:
 - Better ways to detect cultural trends before they saturate
 - Data engineering done with rigor, not just speed
 
-Best place to reach me: **[your-email]** or **[LinkedIn]([your-linkedin-url])**.
+Best place to reach me: **[nazirasabyt@gmail.com]** or **[LinkedIn]([https://www.linkedin.com/in/nazirasabyt/])**.
