@@ -24,34 +24,44 @@ I enjoy working at the intersection of data, marketing, and automation — build
 
 My interests range from consumer behavior and trend analysis to data pipelines, dashboards, and operational automations. I like understanding why people buy, search, react, and engage — then designing systems that make those patterns easier to measure and act on.
 
-What I care about most: **clear thinking, practical analysis, and building things that are actually useful**.
+My focus is on building practical analytics projects end-to-end: from collecting and cleaning data to creating dashboards, reports, and actionable insights.
 
----
+What I Work On
+Marketing & consumer trend analysis
+Business intelligence dashboards
+Data cleaning and transformation
+Automated reporting workflows
+KPI tracking and performance analysis
+Multi-source data collection systems
+Exploratory data analysis (EDA)
+Featured Projects
+📊 UAE Consumer Market Intelligence System
 
-### What I build
+Built a multi-source analytics platform that tracks market demand, customer sentiment, and competitive saturation across UAE consumer concepts.
 
-**Marketing and analytics systems.**
-I build workflows that collect, clean, analyze, and visualize data from multiple sources — helping teams move from raw information to actionable insights.
+Stack: Python · DuckDB · Streamlit · APIs
+🔗 Project Link
 
-**Automations and internal tools.**
-From scheduled data pipelines to reporting systems and API integrations, I enjoy automating repetitive processes and improving operational efficiency.
+📈 Marketing Trend Analysis Dashboards
 
-**Dashboards and decision tools.**
-I like creating dashboards that simplify complexity and help people focus on the signals that matter instead of drowning in metrics.
+Created dashboards and analytical reports to monitor consumer trends, search demand, engagement metrics, and market opportunities.
 
----
+Stack: Python · SQL · Plotly
+🔗 Project Link
 
-### Areas I enjoy
+⚙️ Automated Data Pipeline System
 
-* Marketing analysis
-* Consumer trend research
-* Data automation
-* Dashboard design
-* Analytical workflows
-* API integrations
-* Business intelligence
-* Process optimization
+Developed automated workflows for collecting, cleaning, and processing data from APIs and public sources into analysis-ready datasets.
 
+Stack: Python · APIs · dbt · Scheduling
+🔗 Project Link
+
+🧠 Customer Review & Sentiment Analysis
+
+Analyzed customer reviews using NLP techniques to identify recurring pain points, preferences, and unmet demand patterns.
+
+Stack: Python · pandas · NLP
+🔗 Project Link
 ---
 
 ### Tools I use
