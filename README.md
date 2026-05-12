@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Nazira 👋</h1>
 
 <p align="center">
   <em>Data analyst building consumer market intelligence systems in the UAE.</em>
@@ -49,3 +49,41 @@ I write detailed case studies of my analyses — not just code dumps. Each one w
 ---
 
 ### Tools I use
+Languages         Python · SQL
+Data              DuckDB · dbt · pandas
+Visualization     Streamlit · Plotly · Seaborn
+Pipelines         APScheduler · tenacity · pydantic
+ML / NLP          sentence-transformers · HDBSCAN · VADER
+Infrastructure    Docker · Git · GitHub Actions
+APIs              SerpAPI · Apify · Anthropic · YouTube Data API
+
+
+---
+
+### Currently
+
+🛠 Building out a multi-source market intelligence platform for UAE consumer concepts  
+📚 Deepening my work in dbt and analytical engineering practices  
+✍ Publishing weekly case studies on UAE F&B market dynamics  
+🔍 Open to data analyst roles — UAE or remote  
+
+---
+
+### Selected work
+
+| Project | Description | Stack |
+|---|---|---|
+| [CCIS](#) | UAE F&B market intelligence system. Ingests 8 sources, scores concepts on composite opportunity metric, surfaces insights via dashboard. | Python · DuckDB · Streamlit · Anthropic API |
+| [Case Studies](#) | Written analyses of UAE consumer market dynamics, with charts, methodology, and limitations. | Notion · Plotly |
+
+---
+
+### Get in touch
+
+I'm always interested in talking with people working on:
+- Consumer market intelligence in MENA
+- Analytical scoring frameworks for messy real-world data
+- Better ways to detect cultural trends before they saturate
+- Data engineering done with rigor, not just speed
+
+Best place to reach me: **[your-email]** or **[LinkedIn]([your-linkedin-url])**.
