@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nazira 👋</h1>
 
 <p align="center">
-  <em>Data analyst and developer focused on marketing analysis, automation, and decision systems.</em>
+  <em>Data analyst and engineer focused on marketing analysis, automation, and decision systems.</em>
 </p>
 
 <p align="center">
