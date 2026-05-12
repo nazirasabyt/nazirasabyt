@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[[your-linkedin-url](https://www.linkedin.com/in/nazirasabyt/)]">
+  <a href="[https://www.linkedin.com/in/nazirasabyt/]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[your-portfolio-url]">
