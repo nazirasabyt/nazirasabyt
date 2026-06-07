@@ -40,16 +40,14 @@ Exploratory data analysis (EDA)
 ### Tools I use
 
 **Languages**
-Python · SQL
+Python · SQL 
 
 **Data & Analytics**
-pandas · DuckDB · dbt
+pandas · DuckDB  · BigQuery
 
 **Visualization**
-Streamlit · Plotly
+Streamlit · Plotly · Tableau
 
-**Automation & Infrastructure**
-Docker · GitHub Actions · APScheduler
 
 **APIs & Integrations**
 REST APIs · Firebase · Anthropic API · Google APIs
