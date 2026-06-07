@@ -61,13 +61,14 @@ Streamlit · Plotly · Tableau
 ---
 
 
-### Selected Work
+## Featured Projects
+
+Click on the project names to view the live web applications.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [Market Intelligence System](https://trends-btphrjckoftq9pwcyfwfns.streamlit.app) | An analytics tool that calculates market opportunity by comparing what people are searching for against how many competitors are actually nearby." | Python · Streamlit · DuckDB |
-| [F&B Trend & Demand Analyzer](https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/) | Time-series research tool leveraging Google Trends to track historical demand shifts, seasonal consumer behavior, and long-term interest trajectories specifically within the Food & Beverage sector. | SQL · pandas · Plotly · Streamlit|
-
+| <a href="https://trends-btphrjckoftq9pwcyfwfns.streamlit.app" target="_blank">**Market Intelligence System**</a> | An analytics tool that calculates market opportunity by comparing what people are searching for against how many competitors are actually nearby. | Python · Streamlit · DuckDB |
+| <a href="https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/" target="_blank">**F&B Trend & Demand Analyzer**</a> | Time-series research tool leveraging Google Trends to track historical demand shifts, seasonal consumer behavior, and long-term interest trajectories specifically within the Food & Beverage sector. | SQL · pandas · Plotly · Streamlit |
 ---
 ### Get in touch
 
