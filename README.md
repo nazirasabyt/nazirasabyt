@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nazira 👋</h1>
+<h1 align="center">Hi, I'm Nazira </h1>
 
 <p align="center">
   <em>Data analyst and engineer focused on marketing analysis, automation, and decision systems.</em>
@@ -49,8 +49,6 @@ pandas · DuckDB  · BigQuery
 Streamlit · Plotly · Tableau
 
 
-**APIs & Integrations**
-REST APIs · Firebase · Anthropic API · Google APIs
 
 ---
 
