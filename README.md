@@ -66,7 +66,7 @@ Streamlit · Plotly · Tableau
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [Market Intelligence System](https://trends-btphrjckoftq9pwcyfwfns.streamlit.app) | Multi-source analytics platform that tracks market demand, customer sentiment, and competitive saturation across UAE consumer markets | Python · Streamlit · DuckDB |
-| [Marketing Analysis Projects](https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/) | Research and analysis project focused on consumer behavior, search trends, and market opportunities | SQL · pandas · Plotly · Streamlit|
+| [F&B Trend & Demand Analyzer](https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/) | Time-series research tool leveraging Google Trends to track historical demand shifts, seasonal consumer behavior, and long-term interest trajectories specifically within the Food & Beverage sector. | SQL · pandas · Plotly · Streamlit|
 
 ---
 ### Get in touch
