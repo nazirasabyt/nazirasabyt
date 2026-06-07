@@ -66,10 +66,9 @@ Streamlit · Plotly · Tableau
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [Market Intelligence System](https://trends-btphrjckoftq9pwcyfwfns.streamlit.app) | Multi-source analytics platform that tracks market demand, customer sentiment, and competitive saturation across UAE consumer markets | Python · Streamlit · DuckDB |
-| [Marketing Analysis Projects](https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/) | Research and analysis projects focused on consumer behavior, search trends, and market opportunities | SQL · pandas · Plotly |
-| [Customer Sentiment Analysis](#) | NLP-based analysis of customer reviews to identify patterns, pain points, and unmet demand | Python · NLP · pandas |
+| [Marketing Analysis Projects](https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/) | Research and analysis project focused on consumer behavior, search trends, and market opportunities | SQL · pandas · Plotly · Streamlit|
 
 ---
 ### Get in touch
 
-Best place to reach me: **[Email](mailto:nazirasabyt@gmail.com)**.
+Best place to reach me: **[Email](mailto:nazirasabyt@gmail.com)**
