@@ -18,21 +18,20 @@
 
 ---
 
-### About me
+### About Me
+I am an Analytics Engineer who enjoys working at the intersection of data modeling and business intelligence—building systems that turn messy information into reliable decisions.
 
-I enjoy working at the intersection of data, marketing, and automation — building systems that turn messy information into useful decisions.
-My focus is on building practical analytics projects end-to-end: from collecting and cleaning data to creating dashboards, reports, and actionable insights.
+My focus is on developing practical analytics pipelines end-to-end: from extracting and transforming raw data to building interactive dashboards and automated reporting workflows.
 
 What I Work On
-Marketing & consumer trend analysis
-Business intelligence dashboards
-Data cleaning and transformation
-Automated reporting workflows
-KPI tracking and performance analysis
-Multi-source data collection systems
-Exploratory data analysis (EDA)
 
+Data Transformation & Modeling: Structuring complex, messy datasets for analysis (SQL, Python, DuckDB).
 
+Interactive BI Dashboards: Building data-driven web applications (Streamlit, Plotly).
+
+Automated Data Workflows: Streamlining the path from raw data sources to final KPIs.
+
+Exploratory Data Analysis (EDA): Uncovering hidden patterns and metrics within raw data.
 
 
 ---
