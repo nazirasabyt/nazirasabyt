@@ -68,7 +68,6 @@ Streamlit · Plotly · Tableau
 | [Market Intelligence System](https://trends-btphrjckoftq9pwcyfwfns.streamlit.app).       | Multi-source analytics platform that tracks market demand, customer sentiment, and competitive saturation across UAE consumer markets | Python · Streamlit · DuckDB |
 | [Data Automation Workflows](#)        | Automated pipelines and integrations for collecting, cleaning, and processing data from APIs and external sources                     | Python · APIs · dbt         |
 | [Marketing Analysis Projects](#)      | Research and analysis projects focused on consumer behavior, search trends, and market opportunities                                  | SQL · pandas · Plotly       |
-| [Business Intelligence Dashboards](#) | Interactive dashboards for KPI tracking, operational reporting, and trend visualization                                               | Tableau  · SQL  |
 | [Customer Sentiment Analysis](#)      | NLP-based analysis of customer reviews to identify patterns, pain points, and unmet demand                                            | Python · NLP · pandas       |
 
 
