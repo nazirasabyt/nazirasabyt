@@ -19,19 +19,24 @@
 ---
 
 ### About Me
-I build interactive systems that turn messy information into actionable business decisions.
 
-My focus is on creating practical BI solutions end-to-end: from collecting and cleaning multi-source data to designing custom dashboards and tracking core business KPIs.
+I am a Data & Business Analyst who enjoys working at the intersection of business intelligence, operations, and market research. My focus is on turning complex, messy data into clear dashboards, automated reports, and actionable insights that drive strategic decisions.
+
+Whether I am tracking product growth, identifying market gaps, or automating operational workflows, I build end-to-end analytics pipelines—from extracting and cleaning the data to designing the interactive tools that stakeholders use to monitor performance.
 
 What I Work On
 
-Custom BI Dashboards: Building full-stack interactive analytics tools (Python, Streamlit).
+Business Intelligence (BI) & Dashboards: Building interactive, self-service analytics tools to track KPIs (Python, Streamlit).
 
-Market & KPI Tracking: Monitoring consumer trends, market saturation, and business performance.
+Market & Product Research: Analyzing search trends and consumer behavior to identify growth opportunities and underserved markets.
 
-Data Cleaning & Aggregation: Pulling together multi-source data to create a single source of truth (SQL, pandas).
+Operations & Automated Reporting: Streamlining workflows by replacing manual data tasks with automated reporting pipelines.
 
-Automated Reporting: Replacing manual Excel work with automated data workflows.
+Data Cleaning & Transformation: Extracting and structuring multi-source data for accurate analysis (SQL, pandas, DuckDB).
+
+Performance Tracking: Monitoring business metrics, operational efficiency, and market saturation.
+
+Exploratory Data Analysis (EDA): Uncovering the hidden stories, trends, and bottlenecks within raw data.
 
 
 ---
