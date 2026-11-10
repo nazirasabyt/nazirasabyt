@@ -35,11 +35,11 @@ My technical background allows me to go beyond using marketing tools. I build an
 
 ### Current interests
 
-- Marketing technology (MarTech)
+- Marketing technology
 - AI-powered business workflows
 - Growth analytics and attribution
 - CRM and customer engagement systems
-- Building practical software for real business problems
+- Building practical workflows for real business problems
 
 ---
 
