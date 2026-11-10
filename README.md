@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nazira</h1>
 
 <p align="center">
-  <em>Growth marketer who builds her own marketing tools, data apps and AI automations.</em>
+  <em>Digital marketer in the UAE. I help businesses get more leads, reply to them faster and see what their marketing actually brings in.</em>
 </p>
 
 <p align="center">
@@ -17,60 +17,53 @@
 
 ### About me
 
-I'm a growth marketer based in the UAE. I plan and run campaigns on Instagram, WhatsApp and email, and I write the code behind them: CRMs, lead follow-up, AI agents, and data apps that show where demand is.
+I've worked in marketing for restaurant, food and beauty brands in the UAE, and I now run growth marketing at NextDigital for small businesses.
 
-Most marketers wait on a developer to fix tracking, build a landing page or automate a follow-up. I do it myself, so ideas get tested faster and the numbers are easier to trust.
+Most businesses I work with have the same problems: messages from ads go unanswered, leads are lost after the first chat, and nobody is sure which campaign is paying off. I fix that by setting up the systems myself, from the inbox and follow-up messages to the reports, so the team can focus on selling.
 
-My background is in marketing for restaurant, food and beauty brands. This GitHub is where the technical side of that work lives.
-
----
-
-### What I build
-
-**Marketing tools.** GrowthOS, a CRM and marketing platform for UAE small businesses: one inbox for WhatsApp, Instagram and email, a lead pipeline, broadcasts, bookings, reviews and landing pages.
-
-**AI automation.** AI agents and chatbots that reply to customer messages, automated lead follow-ups, and an AI creative tool that turns one campaign idea into reels, images and ad copy for each platform.
-
-**Market research apps.** Tools that use search trends and local competition to show where demand is growing and which markets are underserved.
-
-**Reporting.** Dashboards and automated reports that track campaign and business metrics, so decisions are based on data rather than guesses.
+Because I can build these tools myself, a business doesn't need to hire a developer or pay for five different apps to get it done.
 
 ---
 
-### Tools I use
+### How I help a business
 
-**Marketing:** Meta Ads · WhatsApp Business API · email campaigns · Google Trends
+**Never miss a lead.** Messages from WhatsApp, Instagram and email in one place, with automatic replies after hours and follow-ups so no customer is forgotten.
 
-**Data:** Python · SQL · pandas · DuckDB · BigQuery
+**Reply in seconds, not hours.** AI assistants that answer common questions, share prices and book appointments, then pass serious buyers to the team.
 
-**Visualisation:** Streamlit · Plotly · Tableau
+**More content, less waiting.** Ad videos, images and captions in every size each platform needs, produced in hours instead of days.
 
-**Building:** React · React Native · TypeScript · Firebase · Remotion
+**Know where to spend.** Simple reports that show which ads and channels bring customers, so budget goes to what works.
 
-**AI:** AI agents and chatbots · AI image and video generation
+**Know the market before spending.** Research on what customers are searching for and how crowded the area is, before opening, launching or advertising.
 
 ---
 
-## Featured projects
+## Work you can try
 
-Click a project name to open the live app.
+Click a project name to open it.
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| <a href="https://trends-btphrjckoftq9pwcyfwfns.streamlit.app" target="_blank">**Market Intelligence System**</a> | Finds market opportunities by comparing what people search for with how many competitors are nearby. Useful for deciding where to open, advertise or expand. | Python · Streamlit · DuckDB |
-| <a href="https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/" target="_blank">**F&B Trend & Demand Analyzer**</a> | Tracks demand for food and beverage categories over time using Google Trends, including seasonal peaks. Useful for planning campaigns and menus around when people are actually searching. | SQL · pandas · Plotly · Streamlit |
-| **GrowthOS** *(private)* | CRM and marketing platform for UAE small businesses, with an AI agent, automated follow-ups and WhatsApp, Instagram and email campaigns. | React · TypeScript · Firebase |
+| Project | The business question it answers |
+| :--- | :--- |
+| <a href="https://trends-btphrjckoftq9pwcyfwfns.streamlit.app" target="_blank">**Market Opportunity Finder**</a> | "Is there enough demand here, and how many competitors are already nearby?" Compares what people search for with local competition, to help decide where to open or advertise. |
+| <a href="https://marketanalysis-kjbwtpyp8rib6ywbp7vnma.streamlit.app/" target="_blank">**F&B Demand Tracker**</a> | "When do people actually want this?" Shows how interest in food and drink categories rises and falls through the year, to time campaigns and menu launches. |
+| **GrowthOS** *(used with NextDigital clients)* | One dashboard where a business manages customer messages, leads, campaigns, bookings and reviews, with an AI assistant that replies to customers. |
+
+---
+
+### Tools
+
+**Marketing:** Meta Ads · WhatsApp Business · email campaigns · Google Trends · Canva
+
+**Reporting and research:** Google Sheets · SQL · Python · Tableau
+
+**Building tools:** React · Firebase · AI assistants and content tools
 
 ---
 
 ### Currently
 
-- Working as a Growth Marketing Specialist at NextDigital
-- Building AI tools for content, ads and lead follow-up
+- Growth Marketing Specialist at NextDigital
 - Open to digital marketing, growth and CRM marketing roles in the UAE
 
----
-
-### Get in touch
-
-Best place to reach me: **[Email](mailto:nazirasabyt@gmail.com)**
+Best way to reach me: **[Email](mailto:nazirasabyt@gmail.com)**
