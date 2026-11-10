@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nazira</h1>
 
 <p align="center">
-  <em>Digital marketer in the UAE. I help businesses get more leads, reply to them faster and see what their marketing actually brings in.</em>
+  <em> Digital marketing professional with a focus on lead generation, customer engagement, marketing automation, and performance tracking. Experienced in helping businesses improve customer acquisition, streamline lead management, and make data-driven marketing decisions.</em>
 </p>
 
 <p align="center">
