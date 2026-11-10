@@ -15,27 +15,31 @@
 
 ---
 
-### About me
+## About me
 
-I've worked in marketing for restaurant, food and beauty brands in the UAE, and I now run growth marketing at NextDigital for small businesses.
+I'm a digital marketing professional based in the UAE with a background in restaurant, food, and beauty marketing, now working at the intersection of growth marketing and software development.
 
-Most businesses I work with have the same problems: messages from ads go unanswered, leads are lost after the first chat, and nobody is sure which campaign is paying off. I fix that by setting up the systems myself, from the inbox and follow-up messages to the reports, so the team can focus on selling.
+Currently working on growth marketing initiatives at **NextDigital**, with a focus on lead generation, marketing automation, CRM systems, and analytics.
 
-Because I can build these tools myself, a business doesn't need to hire a developer or pay for five different apps to get it done.
+I enjoy understanding how businesses operate behind the scenes — from how customers discover a brand to how enquiries are managed, campaigns are measured, and decisions are made.
 
----
+My technical background allows me to go beyond using marketing tools. I build and integrate solutions using APIs, automation, AI, and custom software to make marketing workflows more efficient.
 
-### How I help a business
+### What I work with
 
-**Never miss a lead.** Messages from WhatsApp, Instagram and email in one place, with automatic replies after hours and follow-ups so no customer is forgotten.
+- **Digital Marketing:** Growth strategy, lead generation, campaign management
+- **Automation:** Workflow automation, CRM, WhatsApp and social integrations
+- **Development:** React Native, JavaScript, APIs, Firebase
+- **Analytics:** SQL, data analysis, Tableau, campaign reporting
+- **Creative:** Content production, photography, video, and brand communication
 
-**Reply in seconds, not hours.** AI assistants that answer common questions, share prices and book appointments, then pass serious buyers to the team.
+### Current interests
 
-**More content, less waiting.** Ad videos, images and captions in every size each platform needs, produced in hours instead of days.
-
-**Know where to spend.** Simple reports that show which ads and channels bring customers, so budget goes to what works.
-
-**Know the market before spending.** Research on what customers are searching for and how crowded the area is, before opening, launching or advertising.
+- Marketing technology (MarTech)
+- AI-powered business workflows
+- Growth analytics and attribution
+- CRM and customer engagement systems
+- Building practical software for real business problems
 
 ---
 
